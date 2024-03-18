@@ -1,0 +1,8 @@
+numpy==1.23.5
+matplotlib==3.6.2
+pydicom==2.3.1
+scikit-image==0.19.3
+tensorflow-addons==0.18.0
+keras-unet-collection==0.1.13
+scikit-learn==1.2.2
+tk
