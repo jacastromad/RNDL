@@ -1,4 +1,4 @@
-# Charla de Introducción a Redes Neuronales y Deep Learning
+# Introducción a las Redes Neuronales y Deep Learning
 
 Este repositorio contiene los recursos utilizados en la presentación de introducción a las redes neuronales y deep learning, realizada en el IES María de Zayas y Sotomayor el 18 de marzo de 2024.
 
